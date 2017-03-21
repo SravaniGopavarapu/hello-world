@@ -3,7 +3,7 @@ KeyfileName=
 Domino.Name=inmumm17.tcs.com
 Domino.Address=inmumm17.tcs.com
 Domino.Port=TCPIP
-Domino.Server=1
+Sravani added new line in the file
 AdditionalServices=0
 AdditionalServices.NetworkDial=0
 Replication.Threshold=9999
