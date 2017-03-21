@@ -1,0 +1,10 @@
+Username=732283
+KeyfileName=
+Domino.Name=inmumm17.tcs.com
+Domino.Address=inmumm17.tcs.com
+Domino.Port=TCPIP
+Domino.Server=1
+AdditionalServices=0
+AdditionalServices.NetworkDial=0
+Replication.Threshold=9999
+Replication.Schedule=0
